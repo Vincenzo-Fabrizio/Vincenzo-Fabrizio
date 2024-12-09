@@ -7,7 +7,7 @@
 --
 ### 📫 𝙿𝚎𝚛 𝙸𝙽𝙵𝙾 𝚘 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚉𝙸𝙾𝙽𝙸 
 #### [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+393804658300)
-#### [![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/𝕍𝕚𝕟𝕔𝕖𝕟𝕫𝕠)
+#### [![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/@Lazzar15)
 #### [![Email](https://img.shields.io/badge/Email-0072CE.svg?style=for-the-badge&logo=Apple&logoColor=white)](mailto:vincenzofabrizio15@icloud.com)
 #### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_vincenzofabrizio_)
 
