@@ -1,9 +1,24 @@
-# 🅱🅴🅽🆅🅴🅽🆄🆃🅾 𝕟𝕖𝕝 𝕞𝕚𝕠 𝕡𝕣𝕠𝕗𝕚𝕝𝕠 <mark>GιƚHυႦ! 💻
-【👋!】𝕄𝕚 𝕔𝕙𝕚𝕒𝕞𝕠 ***𝓥𝓲𝓷𝓬𝓮𝓷𝔃𝓸***.    
---
-### 𝑰𝑵𝑭𝑶 𝕠 𝑪𝑶𝑳𝑳𝑨𝑩𝑶𝑹𝑨𝒁𝑰𝑶𝑵𝑰 📫
-#### [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+393804658300)
-#### [![Telegram](https://img.shields.io/badge/Telegram-0088cc.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/@Lazzar15)
-#### [![Email](https://img.shields.io/badge/Email-0072CE.svg?style=for-the-badge&logo=Apple&logoColor=white)](mailto:vincenzofabrizio15@icloud.com)
-#### [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_vincenzofabrizio_)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+  <img src="assets/profile-light.svg" alt="Professional digital profile of Vincenzo Fabrizio, Software Developer and IT Consultant" width="100%">
+</picture>
 
+Software developer and IT consultant specializing in web applications, business digitalization and intelligent systems. I design reliable digital solutions for businesses and professionals.
+
+_Informatico e consulente IT specializzato nello sviluppo di applicazioni web, nella digitalizzazione aziendale e nei sistemi intelligenti. Progetto soluzioni digitali affidabili per imprese e professionisti._
+
+## Areas of expertise
+
+- Web applications
+- Business digitalization
+- Intelligent systems
+- Custom software solutions
+
+## Featured projects
+
+Selected public projects will be presented here once defined.
+
+## Contact
+
+[GitHub](https://github.com/Vincenzo-Fabrizio) · [LinkedIn](https://www.linkedin.com/in/vincenzo-fabrizio-6282aa315) · [404hub.it](https://404hub.it)
